@@ -1,0 +1,5 @@
+speechrecognition
+wikipedia
+openai
+PyAudio
+pocketsphinx
